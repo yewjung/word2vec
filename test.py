@@ -1,5 +1,7 @@
 # import ssl
 import torch
+from functools import partial
+
 # import nltk
 
 # try:
